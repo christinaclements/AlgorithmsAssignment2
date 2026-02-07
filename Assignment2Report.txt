@@ -1,0 +1,30 @@
+Sorting algorithms - Insertion Sort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.05 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.0 ms (avg)
+Sorted 5000 elements in 3.15 ms (avg)
+Sorted 10000 elements in 17.05 ms (avg)
+Sorted 20000 elements in 73.4 ms (avg)
+Sorted 75000 elements in 1499.25 ms (avg)
+Sorted 150000 elements in 5498.35 ms (avg)
+
+Sorting algorithms - Merge Sort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 0.0 ms (avg)
+Sorted 1000 elements in 0.0 ms (avg)
+Sorted 2000 elements in 0.15 ms (avg)
+Sorted 5000 elements in 2.0 ms (avg)
+Sorted 10000 elements in 1.85 ms (avg)
+Sorted 20000 elements in 4.55 ms (avg)
+Sorted 75000 elements in 21.4 ms (avg)
+Sorted 150000 elements in 48.85 ms (avg)
+
+Sorting algorithms - Bubble Sort
+Sorted 100 elements in 0.0 ms (avg)
+Sorted 500 elements in 1.2 ms (avg)
+Sorted 1000 elements in 2.1 ms (avg)
+Sorted 2000 elements in 5.1 ms (avg)
+Sorted 5000 elements in 52.05 ms (avg)
+Sorted 10000 elements in 254.55 ms (avg)
+Sort
