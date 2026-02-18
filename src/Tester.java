@@ -8,12 +8,12 @@ public class Tester {
         this.random = new Random();
     }
     double singleTest(int size){
-        int[] arr = new int[size];
-     //   int[] arr = generateKSorted(size);
+     //   int[] arr = new int[size];
+        int[] arr = generateKSorted(size);
      // random array sorting performance testing code
-        for (int i = 0; i < size; i++){
-           arr[i] = random.nextInt(10000);
-        }
+     //   for (int i = 0; i < size; i++){
+     //      arr[i] = random.nextInt(10000);
+     //   }
         long start = System.nanoTime();
         sa.sorty(arr);
         long end = System.nanoTime();
